@@ -1,0 +1,302 @@
+[
+  {
+    "_id": 1,
+    "adjective": "encouraging",
+    "author": "Neil Gaiman",
+    "quote": "Do the best you can until you know better. Then when you know better, do better."
+  },
+  {
+    "_id": 2,
+    "adjective": "inspiring",
+    "author": "Marie Curie",
+    "quote": "In the middle of difficulty lies opportunity."
+  },
+  {
+    "_id": 3,
+    "adjective": "motivating",
+    "author": "Stephen Hawking",
+    "quote": "The biggest adventure you can take is to live the life of your dreams."
+  },
+  {
+    "_id": 4,
+    "adjective": "empowering",
+    "author": "Rosa Parks",
+    "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall."
+  },
+  {
+    "_id": 5,
+    "adjective": "hopeful",
+    "author": "Kofi Annan",
+    "quote": "We realize the importance of our voices only when we are silenced."
+  },
+  {
+    "_id": 6,
+    "adjective": "enlightening",
+    "author": "Carl Sagan",
+    "quote": "The wound is the place where the Light enters you."
+  },
+  {
+    "_id": 7,
+    "adjective": "inspiring",
+    "author": "Neil Armstrong",
+    "quote": "All our dreams can come true, if we have the courage to pursue them."
+  },
+  {
+    "_id": 8,
+    "adjective": "wise",
+    "author": "Lao Tzu",
+    "quote": "The mind is everything. What you think you become."
+  },
+  {
+    "_id": 9,
+    "adjective": "philosophical",
+    "author": "Voltaire",
+    "quote": "The only true wisdom is in knowing you know nothing."
+  },
+  {
+    "_id": 10,
+    "adjective": "reflective",
+    "author": "Basho",
+    "quote": "It does not matter how slowly you go as long as you do not stop."
+  },
+  {
+    "_id": 11,
+    "adjective": "optimistic",
+    "author": "J.K. Rowling",
+    "quote": "Keep your face always toward the sunshine - and shadows will fall behind you."
+  },
+  {
+    "_id": 12,
+    "adjective": "courageous",
+    "author": "Napoleon Bonaparte",
+    "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts."
+  },
+  {
+    "_id": 13,
+    "adjective": "persevering",
+    "author": "Alexander Graham Bell",
+    "quote": "I have not failed. I've just found 10,000 ways that won't work."
+  },
+  {
+    "_id": 14,
+    "adjective": "resilient",
+    "author": "Frida Kahlo",
+    "quote": "When you get into a tight place and everything goes against you, till it seems as though you could not hang on a minute longer, never give up then, for that is just the place and time that the tide will turn."
+  },
+  {
+    "_id": 15,
+    "adjective": "determined",
+    "author": "Abraham Lincoln",
+    "quote": "I have learned over the years that when one's mind is made up, this diminishes fear; knowing what must be done does away with fear."
+  },
+  {
+    "_id": 16,
+    "adjective": "insightful",
+    "author": "Stephen Hawking",
+    "quote": "Great minds discuss ideas; average minds discuss events; small minds discuss people."
+  },
+  {
+    "_id": 17,
+    "adjective": "compassionate",
+    "author": "Dalai Lama",
+    "quote": "Spread love everywhere you go. Let no one ever come to you without leaving happier."
+  },
+  {
+    "_id": 18,
+    "adjective": "creative",
+    "author": "Vincent van Gogh",
+    "quote": "Every child is an artist. The problem is how to remain an artist once he grows up."
+  },
+  {
+    "_id": 19,
+    "adjective": "thought-provoking",
+    "author": "Mahatma Gandhi",
+    "quote": "The time is always right to do what is right."
+  },
+  {
+    "_id": 20,
+    "adjective": "insightful",
+    "author": "Fyodor Dostoevsky",
+    "quote": "He who has a why to live can bear almost any how."
+  },
+  {
+    "_id": 21,
+    "adjective": "inspirational",
+    "author": "Pablo Picasso",
+    "quote": "I am seeking. I am striving. I am in it with all my heart."
+  },
+  {
+    "_id": 22,
+    "adjective": "brave",
+    "author": "Aung San Suu Kyi",
+    "quote": "How wonderful it is that nobody need wait a single moment before starting to improve the world."
+  },
+  {
+    "_id": 23,
+    "adjective": "optimistic",
+    "author": "Walt Disney",
+    "quote": "Even the smallest person can change the course of the future."
+  },
+  {
+    "_id": 24,
+    "adjective": "motivational",
+    "author": "Bill Gates",
+    "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do."
+  },
+  {
+    "_id": 25,
+    "adjective": "reflective",
+    "author": "Henry David Thoreau",
+    "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us."
+  },
+  {
+    "_id": 26,
+    "adjective": "empowering",
+    "author": "Gloria Steinem",
+    "quote": "When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid."
+  },
+  {
+    "_id": 27,
+    "adjective": "courageous",
+    "author": "Dale Carnegie",
+    "quote": "Some of us think holding on makes us strong, but sometimes it is letting go."
+  },
+  {
+    "_id": 28,
+    "adjective": "inspiring",
+    "author": "Hermann Hesse",
+    "quote": "Alone we can do so little; together we can do so much."
+  },
+  {
+    "_id": 29,
+    "adjective": "hopeful",
+    "author": "Aristotle",
+    "quote": "How wonderful it is that nobody need wait a single moment before starting to improve the world."
+  },
+  {
+    "_id": 30,
+    "adjective": "wise",
+    "author": "Aristotle",
+    "quote": "The journey of a thousand miles begins with one step."
+  },
+  {
+    "_id": 31,
+    "adjective": "reflective",
+    "author": "Emily Dickinson",
+    "quote": "Not all those who wander are lost."
+  },
+  {
+    "_id": 32,
+    "adjective": "inspiring",
+    "author": "Maya Angelou",
+    "quote": "You may encounter many defeats, but you must not be defeated."
+  },
+  {
+    "_id": 33,
+    "adjective": "insightful",
+    "author": "Nietzsche",
+    "quote": "We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light."
+  },
+  {
+    "_id": 34,
+    "adjective": "encouraging",
+    "author": "Napoleon Hill",
+    "quote": "The way to get started is to quit talking and begin doing."
+  },
+  {
+    "_id": 35,
+    "adjective": "motivating",
+    "author": "Og Mandino",
+    "quote": "You don't have to be great to start, but you have to start to be great."
+  },
+  {
+    "_id": 36,
+    "adjective": "optimistic",
+    "author": "Frank Lloyd Wright",
+    "quote": "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."
+  },
+  {
+    "_id": 37,
+    "adjective": "wise",
+    "author": "Leo Tolstoy",
+    "quote": "Silence is a source of great strength."
+  },
+  {
+    "_id": 38,
+    "adjective": "reflective",
+    "author": "Friedrich Nietzsche",
+    "quote": "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself."
+  },
+  {
+    "_id": 39,
+    "adjective": "hopeful",
+    "author": "Barbara Jordan",
+    "quote": "Change will not come if we wait for some other person or some other time. We are the ones we've been waiting for. We are the change that we seek."
+  },
+  {
+    "_id": 40,
+    "adjective": "inspiring",
+    "author": "Eleanor Roosevelt",
+    "quote": "The future belongs to those who believe in the beauty of their dreams."
+  },
+  {
+    "_id": 41,
+    "adjective": "motivating",
+    "author": "Tony Robbins",
+    "quote": "Shoot for the moon. Even if you miss it you will land among the stars."
+  },
+  {
+    "_id": 42,
+    "adjective": "encouraging",
+    "author": "Dalai Lama",
+    "quote": "Once you choose hope, anything's possible."
+  },
+  {
+    "_id": 43,
+    "adjective": "courageous",
+    "author": "Marianne Williamson",
+    "quote": "Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure."
+  },
+  {
+    "_id": 44,
+    "adjective": "inspiring",
+    "author": "Walt Disney",
+    "quote": "All our dreams can come true, if we have the courage to pursue them."
+  },
+  {
+    "_id": 45,
+    "adjective": "motivating",
+    "author": "Zig Ziglar",
+    "quote": "You are never too old to set another goal or to dream a new dream."
+  },
+  {
+    "_id": 46,
+    "adjective": "optimistic",
+    "author": "Martin Luther King Jr.",
+    "quote": "When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us."
+  },
+  {
+    "_id": 47,
+    "adjective": "hopeful",
+    "author": "Christopher Reeve",
+    "quote": "It always seems impossible until it's done."
+  },
+  {
+    "_id": 48,
+    "adjective": "encouraging",
+    "author": "Sheryl Sandberg",
+    "quote": "Your time is limited, don't waste it living someone else's life."
+  },
+  {
+    "_id": 49,
+    "adjective": "inspiring",
+    "author": "Maya Angelou",
+    "quote": "You may encounter many defeats, but you must not be defeated."
+  },
+  {
+    "_id": 50,
+    "adjective": "motivating",
+    "author": "Brian Tracy",
+    "quote": "The only limits to the possibilities in your life tomorrow are the buts you use today."
+  }
+]
